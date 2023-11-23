@@ -1,0 +1,1 @@
+The objective was to scrape data from Wikipedia for the top 100 companies in the United States by revenue. I crafted a script utilizing BeautifulSoup to extract the desired information, subsequently saving the data to a CSV file.
